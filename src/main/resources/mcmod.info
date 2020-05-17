@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tgswitch",
+  "name": "Tester's Game Switch",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["lichtmec"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

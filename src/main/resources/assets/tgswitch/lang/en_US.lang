@@ -1,0 +1,4 @@
+tgswitch.message.lock_dwrule_toggle=To execute this command, press %1$s key while §bsneak§r.
+
+tgswitch.gamemode_toggle=Toggle Gamemode
+tgswitch.dwrule_toggle=Toggle Daylight (and Weather) Rule
